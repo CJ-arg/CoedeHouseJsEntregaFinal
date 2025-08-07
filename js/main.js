@@ -53,6 +53,7 @@ let cart = [];
 
 function initializeCart(products) {
   const viewCartBtn = document.getElementById('ver-carrito');
+  const viewCartIconBtn = document.getElementById('ver-carrito-icon');
   const clearCartBtn = document.getElementById('vaciar-carrito');
   const savedCart = localStorage.getItem('carrito');
   if (savedCart) {
@@ -60,7 +61,7 @@ function initializeCart(products) {
     updateCartIndicator();
   }
 
-  viewCartBtn.addEventListener('click', () => {
+  function showCart() {
     if (cart.length === 0) {
       Swal.fire('Tu carrito está vacío');
       return;
@@ -83,7 +84,10 @@ function initializeCart(products) {
         showCheckoutForm();
       }
     });
-  });
+  }
+
+  viewCartBtn.addEventListener('click', showCart);
+  viewCartIconBtn.addEventListener('click', showCart);
 
   clearCartBtn.addEventListener('click', () => {
     cart = [];
