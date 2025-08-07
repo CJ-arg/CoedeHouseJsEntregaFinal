@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Edificio",
+    "price": 1200,
+    "image": "https://picsum.photos/id/101/200/250"
+  },
+  {
+    "id": 2,
+    "name": "Frambuesa",
+    "price": 1800,
+    "image": "https://picsum.photos/id/102/200/250"
+  },
+  {
+    "id": 3,
+    "name": "Zapatillas",
+    "price": 2000,
+    "image": "https://picsum.photos/id/103/200/250"
+  },
+  {
+    "id": 4,
+    "name": "Atrapa Sueños",
+    "price": 1600,
+    "image": "https://picsum.photos/id/104/200/250"
+  },
+  {
+    "id": 5,
+    "name": "Montaña",
+    "price": 1400,
+    "image": "https://picsum.photos/id/121/200/250"
+  },
+  {
+    "id": 6,
+    "name": "Flor",
+    "price": 1750,
+    "image": "https://picsum.photos/id/106/200/250"
+  },
+  {
+    "id": 7,
+    "name": "Trigo Verde",
+    "price": 1900,
+    "image": "https://picsum.photos/id/107/200/250"
+  },
+  {
+    "id": 8,
+    "name": "Palmeras",
+    "price": 1700,
+    "image": "https://picsum.photos/id/108/200/250"
+  },
+  {
+    "id": 9,
+    "name": "Contraluz",
+    "price": 2200,
+    "image": "https://picsum.photos/id/109/200/250"
+  },
+  {
+    "id": 10,
+    "name": "Atardecer",
+    "price": 2100,
+    "image": "https://picsum.photos/id/110/200/250"
+  },
+  {
+    "id": 11,
+    "name": "Auto Clásico",
+    "price": 1900,
+    "image": "https://picsum.photos/id/111/200/250"
+  },
+  {
+    "id": 12,
+    "name": "Trigo",
+    "price": 1650,
+    "image": "https://picsum.photos/id/112/200/250"
+  },
+  {
+    "id": 13,
+    "name": "Te",
+    "price": 1850,
+    "image": "https://picsum.photos/id/113/200/250"
+  },
+  {
+    "id": 14,
+    "name": "Nube",
+    "price": 1950,
+    "image": "https://picsum.photos/id/114/200/250"
+  },
+  {
+    "id": 15,
+    "name": "Mojado",
+    "price": 1750,
+    "image": "https://picsum.photos/id/115/200/250"
+  },
+  {
+    "id": 16,
+    "name": "Campo",
+    "price": 1600,
+    "image": "https://picsum.photos/id/116/200/250"
+  },
+  {
+    "id": 17,
+    "name": "Recital",
+    "price": 1800,
+    "image": "https://picsum.photos/id/117/200/250"
+  },
+  {
+    "id": 18,
+    "name": "Girasol",
+    "price": 1500,
+    "image": "https://picsum.photos/id/118/200/250"
+  },
+  {
+    "id": 19,
+    "name": "Laptop",
+    "price": 1700,
+    "image": "https://picsum.photos/id/119/200/250"
+  },
+  {
+    "id": 20,
+    "name": "Cielo",
+    "price": 2000,
+    "image": "https://picsum.photos/id/120/200/250"
+  }
+]
